@@ -14,17 +14,17 @@ My mission is to build digital tools that support mini-grid planning, energy ana
 
 🔋 Interests:
 
-PV Solar & Green Energy
+- PV Solar & Green Energy
 
-Mini-Grid Design & Optimization
+- Mini-Grid Design & Optimization
 
-GIS & Energy Site Selection
+- GIS & Energy Site Selection
 
-Python for Energy Modeling
+- Python for Energy Modeling
 
-Web & Android Development
+- Web & Android Development
 
-Renewable Energy Analytics
+- Renewable Energy Analytics
 
 
 
