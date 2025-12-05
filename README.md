@@ -69,10 +69,8 @@ Tool	Icon
 
 QGIS	<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" width="40"/>
 
-Google Earth Engine	🌍
-
-AutoCAD	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/autocad/autocad-plain.svg" width="40"/>
-
+Google Earth Engine (GEE)	<img src="https://earthengine.google.com/static/images/earth-engine-logo.png" width="40"/>
+ArcGIS / ArcGIS Pro	<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/ArcGIS_Pro_icon.svg" width="40"/>
 
 </div>
 ---
