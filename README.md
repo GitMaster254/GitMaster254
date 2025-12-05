@@ -69,7 +69,7 @@ Tool	Icon
 
 QGIS	<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" width="40"/>
 
-Google Earth Engine (GEE)	<img src="https://earthengine.google.com/static/images/earth-engine-logo.png" width="40"/>
+Google Earth Engine (GEE)	<img src="https://www.bing.com/images/search?view=detailV2&ccid=opfWCvxx&id=6E77B71B105CB090691E74CCBFEC51D7A77F9F6A&thid=OIP.opfWCvxx00yy5wQKYnbH9QHaEv&mediaurl=https%3a%2f%2fwww.despejandodudas.co%2fimages%2f2022%2fDiciembre%2fGoogle_Earth_Engine_3.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a297d60afc71d34cb2e7040a6276c7f5%3frik%3dap9%252fp9dR7L%252fMdA%26pid%3dImgRaw%26r%3d0&exph=573&expw=895&q=google+earth+engine+image+link&FORM=IRPRST&ck=0804BFBAC42C3E59B7B981715CE5FF92&selectedIndex=12&itb=0" width="40"/>
 
 ArcGIS / ArcGIS Pro	<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/ArcGIS_Pro_icon.svg" width="40"/>
 
