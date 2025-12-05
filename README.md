@@ -2,9 +2,6 @@
 
 IT Student | Solar PV & Mini-Grid Enthusiast | Energy Software Developer
 
-<div align="center">
-  <img src="https://i.imgur.com/0Z8FQvZ.png" width="100" />
-</div>
 ---
 
 🟩 About Me
