@@ -12,7 +12,7 @@ My mission is to build digital tools that support mini-grid planning, energy ana
 
 ---
 
-🔋 Interests
+🔋 Interests:
 
 PV Solar & Green Energy
 
@@ -30,19 +30,19 @@ Renewable Energy Analytics
 
 ---
 
-🌱 Currently Learning
+🌱 Currently Learning:
 
-Geospatial Information Systems (GIS)
+- Geospatial Information Systems (GIS)
 
-Google Earth Engine (GEE)
+- Google Earth Engine (GEE)
 
-Python for Energy Modeling
+- Python for Energy Modeling
 
-Power Systems (Inverters, weak grids, standards)
+- Power Systems (Inverters, weak grids, standards)
 
-Mini-grid design (Kenya + global frameworks)
+- Mini-grid design (Kenya + global frameworks)
 
-Web & Android Dev for energy applications
+- Web & Android Dev for energy applications
 
 
 
@@ -68,9 +68,9 @@ Green Energy & GIS Stack
 Tool	Icon
 
 QGIS	<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" width="40"/>
+
 Google Earth Engine	🌍
-Homer Pro	⚡
-PVsyst	🔆
+
 AutoCAD	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/autocad/autocad-plain.svg" width="40"/>
 
 
@@ -91,17 +91,17 @@ AutoCAD	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icon
 
 ---
 
-🤝 Looking to Collaborate On
+🤝 Looking to Collaborate On:
 
-Solar PV tools & dashboards
+- Solar PV tools & dashboards
 
-Energy data analytics (Python)
+- Energy data analytics (Python)
 
-GIS models for site selection
+- GIS models for site selection
 
-Mini-grid optimization systems
+- Mini-grid optimization systems
 
-Web & mobile tools for solar companies
+- Web & mobile tools for solar companies
 
 
 
