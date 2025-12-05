@@ -71,7 +71,7 @@ QGIS	<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new
 
 Google Earth Engine (GEE)🌍
 
-ArcGIS / ArcGIS Pro	<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/ArcGIS_Pro_icon.svg" width="40"/>
+ArcGIS / ArcGIS Pro	
 
 </div>
 
