@@ -85,7 +85,7 @@ ArcGIS / ArcGIS Pro
 
 🌞 My Mission
 
-> Use IT + GIS + Solar PV engineering to help close Africa’s energy poverty gap and support sustainable electrification.
+> Use IT + GIS + Solar PV engineering to help close Kenya’s energy poverty gap and support sustainable electrification.
 
 
 
