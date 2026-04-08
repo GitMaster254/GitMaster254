@@ -1,63 +1,54 @@
-🌍 Silfanus — @GitMaster254
+# Silfanus — @GitMaster254
 
-IT Student | Solar PV & Mini-Grid Enthusiast | Energy Software Developer
+IT Student | Mini-Grid Enthusiast | Data Engineer | AI Enthusiast
 
 ---
 
 🟩 About Me
 
-I’m an IT student passionate about using software, GIS, and solar PV systems to accelerate clean energy access in Africa.
-My mission is to build digital tools that support mini-grid planning, energy analytics, and sustainable development.
+# I’m an IT student passionate about software Integrations for a better Understanding of Data around me. 
+My mission is to Integrate digital tools that support Data Understanding ,energy analytics, and sustainable development.
 
 
 ---
 
-🔋 Interests:
+# Interests:
 
-- PV Solar & Green Energy
+PV Solar & Green Energy
+Networking & ISP Systems (MikroTik, routing, bandwidth control)
+Data Analysis & Insight Generation
+Observability (Grafana, Prometheus, Loki, Docker)
+GIS & Energy Site Intelligence
+System Thinking (how everything connects)
+Web & Android Development
 
-- Mini-Grid Design & Optimization
-
-- GIS & Energy Site Selection
-
-- Python for Energy Modeling
-
-- Web & Android Development
-
-- Renewable Energy Analytics
 
 
 
 ---
 
-🌱 Currently Learning:
+# Currently Learning:
 
+- Observability Stack (Grafana, Prometheus, Loki, LGTM)
+- Network Monitoring & Traffic Analysis
+- Docker for system deployment & scaling
 - Geospatial Information Systems (GIS)
-
 - Google Earth Engine (GEE)
 
-- Python for Energy Modeling
-
-- Power Systems (Inverters, weak grids, standards)
-
-- Mini-grid design (Kenya + global frameworks)
-
-- Web & Android Dev for energy applications
-
 
 
 ---
 
-🛠️ Skills
+# Skills
 
 <div align="center">Programming & Software
 
-Tech	Icon
 
 Python	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-JavaScript	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+
 TypeScript	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-Android	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
+
+Java For Android	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
 
 
 
@@ -65,13 +56,11 @@ Android	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icon
 
 Green Energy & GIS Stack
 
-Tool	Icon
 
 QGIS	<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" width="40"/>
 
-Google Earth Engine (GEE)🌍
+Google Earth Engine (GEE) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40"/>
 
-ArcGIS / ArcGIS Pro	
 
 </div>
 
@@ -83,26 +72,22 @@ ArcGIS / ArcGIS Pro
 
 ---
 
-🌞 My Mission
+# My Mission
 
-> Use IT + GIS + Solar PV engineering to help close Kenya’s energy poverty gap and support sustainable electrification.
+> Integrate data, network infrastructure, and energy systems to generate meaningful insights that support smarter, more sustainable solutions.
 
 
 
 
 ---
 
-🤝 Looking to Collaborate On:
+# Looking to Collaborate On:
 
-- Solar PV tools & dashboards
-
-- Energy data analytics (Python)
-
-- GIS models for site selection
-
-- Mini-grid optimization systems
+- Telementary Data Observibility
 
 - Web & mobile tools for solar companies
+
+- MikroTik Integrations
 
 
 
