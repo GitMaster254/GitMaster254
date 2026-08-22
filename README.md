@@ -1,12 +1,12 @@
 # Silfanus — @GitMaster254
 
-IT Student | Mini-Grid Enthusiast | Data Engineer | AI Enthusiast
+IT Graduate | Mini-Grid Enthusiast | Upcoming Network Engineer | AI Enthusiast
 
 ---
 
 🟩 About Me
 
-# I’m an IT student passionate about software Integrations for a better Understanding of Data around me. 
+# I’m an IT Graduate passionate about software Integrations for a better Understanding of Data around me. 
 My mission is to Integrate digital tools that support Data Understanding ,energy analytics, and sustainable development.
 
 
@@ -14,7 +14,7 @@ My mission is to Integrate digital tools that support Data Understanding ,energy
 
 # Interests:
 
-PV Solar & Green Energy
+Green Energy
 Networking & ISP Systems (MikroTik, routing, bandwidth control)
 Data Analysis & Insight Generation
 Observability (Grafana, Prometheus, Loki, Docker)
@@ -64,14 +64,6 @@ Google Earth Engine (GEE) <img src="https://raw.githubusercontent.com/devicons/d
 
 </div>
 
----
-
-📊 GitHub Stats (Dark Mode)
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GitMaster254&show_icons=true&theme=radical" height="160" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitMaster254&layout=compact&theme=radical" height="160" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=GitMaster254&theme=radical" height="160" /></div>
-
----
-
 # My Mission
 
 > Integrate data, network infrastructure, and energy systems to generate meaningful insights that support smarter, more sustainable solutions.
@@ -85,9 +77,11 @@ Google Earth Engine (GEE) <img src="https://raw.githubusercontent.com/devicons/d
 
 - Telementary Data Observibility
 
-- Web & mobile tools for solar companies
+- Web & Mobile tool Devs
 
 - MikroTik Integrations
+
+- Network Topology Design
 
 
 
